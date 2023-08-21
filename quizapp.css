@@ -23,7 +23,9 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-color: white;
+    background-image:url("./racing.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 body.correct {
